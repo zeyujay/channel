@@ -64,7 +64,7 @@ http://27.184.19.54:4022/rtp/239.254.201.171:7176
 #EXTINF:-1 group-title="CWTV",中国天气
 http://58.41.4.194:8001/udp/239.45.1.47:5140
 
-#EXTINF:-1 group-title="CGTN",CGTN
+#EXTINF:-1 group-title="CGTN",tvg-logo="https://live.fanmingming.com/tv/CGTN.png",CGTN
 http://183.221.31.230:4088//udp/239.11.0.245:5140
 #EXTINF:-1 group-title="CGTN",CGTN记录
 https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
