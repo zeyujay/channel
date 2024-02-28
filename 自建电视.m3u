@@ -5,7 +5,7 @@
 #EXTINF:-1 group-title="CCTV",CCTV1
 http://58.41.4.194:8001/udp/239.45.3.145:5140
 #EXTINF:-1 group-title="CCTV",CCTV2
-http://61.136.96.78:880/2.m3u8
+http://183.221.31.230:4088//udp/239.11.0.108:5140
 #EXTINF:-1 group-title="CCTV",CCTV3
 http://58.41.4.194:8001/udp/239.45.1.68:5140
 #EXTINF:-1 group-title="CCTV",CCTV4
@@ -64,15 +64,8 @@ http://222.191.148.219:8888/rtp/239.49.9.22:6000
 #EXTINF:-1 group-title="CWTV",中国天气
 http://58.41.4.194:8001/udp/239.45.1.47:5140
 
-#EXTINF:-1 group-title="中央新影",发现之旅
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226235/index.m3u8
-#EXTINF:-1 group-title="中央新影",老故事
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226236/index.m3u8
-#EXTINF:-1 group-title="中央新影",中学生
-111
-
-#EXTINF:-1 group-title="CGTN",CGTN英语
-http://58.41.4.194:8001/udp/239.45.1.194:5140
+#EXTINF:-1 group-title="CGTN",CGTN
+http://183.221.31.230:4088//udp/239.11.0.245:5140
 #EXTINF:-1 group-title="CGTN",CGTN记录
 https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 #EXTINF:-1 group-title="CGTN",CGTN俄语
@@ -85,20 +78,20 @@ https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
 http://livear.cgtn.com/1000a/prog_index.m3u8
 
 #EXTINF:-1 group-title="CETV",CETV-1
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225753/index.m3u8
+http://183.221.31.230:4088//udp/239.11.0.139:5140
 #EXTINF:-1 group-title="CETV",CETV-2
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225756/index.m3u8
+http://183.221.31.230:4088//udp/239.11.0.246:5140
 #EXTINF:-1 group-title="CETV",CETV-3
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226226/index.m3u8
+http://183.221.31.230:4088//udp/239.11.0.247:5140
 #EXTINF:-1 group-title="CETV",CETV-4
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226225/index.m3u8
+http://183.221.31.230:4088//udp/239.11.0.248:5140
 
 #EXTINF:-1 group-title="CHC",CHC动作电影
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
+http://124.234.240.160:58888/rtp/239.37.0.186:5540
 #EXTINF:-1 group-title="CHC",CHC家庭影院
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
+http://124.234.240.160:58888/rtp/239.37.0.188:5540
 #EXTINF:-1 group-title="CHC",CHC高清电影
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
+http://124.234.240.160:58888/rtp/239.37.0.187:5540
 
 #EXTINF:-1 group-title="卫视",东方卫视
 http://58.41.4.194:8001/udp/239.45.3.146:5140
@@ -287,7 +280,7 @@ http://183.221.31.230:4088//udp/239.11.0.151:5140
 http://183.221.31.230:4088//udp/239.11.0.152:5140
 #EXTINF:-1 group-title="NewTV",未知1
 http://183.221.31.230:4088//udp/239.11.0.145:5140
-#EXTINF:-1 group-title="NewTV",未知2
+#EXTINF:-1 group-title="NewTV",未知
 http://183.221.31.230:4088//udp/239.11.0.147:5140
 
 #EXTINF:-1 group-title="其他",天元围棋
