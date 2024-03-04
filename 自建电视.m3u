@@ -203,11 +203,18 @@ http://106.116.0.253:8890/rtp/239.254.200.22:6000
 #EXTINF:-1 group-title="河北台",河北农民频道
 http://106.116.0.253:8890/rtp/239.254.200.23:6000
 
-#EXTINF:-1 group-title="山西台",山西黄河
-#EXTINF:-1 group-title="山西台",经济与科技频道
-#EXTINF:-1 group-title="山西台",影视频道
-#EXTINF:-1 group-title="山西台",社会与法治频道
-#EXTINF:-1 group-title="山西台",文体生活
+#EXTINF:-1 group-title="山西台",山西卫视
+http://58.41.4.194:8001/udp/239.45.1.229:5140
+#EXTINF:-1 group-title="山西台",山西黄河电视台
+http://110.179.81.150:8082/udp/239.1.1.2:8002
+#EXTINF:-1 group-title="山西台",山西经济与科技频道
+http://110.179.81.150:8082/udp/239.1.1.3:8003
+#EXTINF:-1 group-title="山西台",山西影视频道
+http://110.179.81.150:8082/udp/239.1.1.4:8004
+#EXTINF:-1 group-title="山西台",山西社会与法治频道
+http://110.179.81.150:8082/udp/239.1.1.5:8005
+#EXTINF:-1 group-title="山西台",山西文体生活
+http://110.179.81.150:8082/udp/239.1.1.6:8006
 
 #EXTINF:-1 group-title="内蒙古台",文体娱乐频道
 #EXTINF:-1 group-title="内蒙古台",经济生活频道
