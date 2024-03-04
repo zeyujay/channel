@@ -121,8 +121,7 @@ http://58.41.4.194:8001/udp/239.45.1.80:5140
 http://58.41.4.194:8001/udp/239.45.1.44:5140
 #EXTINF:-1 group-title="卫视",重庆卫视
 http://58.41.4.194:8001/udp/239.45.1.84:5140
-#EXTINF:-1 group-title="卫视",吉林卫视
-http://58.41.4.194:8001/udp/239.45.0.6:5140
+
 #EXTINF:-1 group-title="卫视",四川卫视
 http://58.41.4.194:8001/udp/239.45.1.83:5140
 #EXTINF:-1 group-title="卫视",海南卫视
@@ -204,7 +203,7 @@ http://106.116.0.253:8890/rtp/239.254.200.22:6000
 http://106.116.0.253:8890/rtp/239.254.200.23:6000
 
 #EXTINF:-1 group-title="山西台",山西卫视
-http://58.41.4.194:8001/udp/239.45.1.229:5140
+http://110.179.81.150:8082/udp/239.1.1.1:8001
 #EXTINF:-1 group-title="山西台",山西黄河电视台
 http://110.179.81.150:8082/udp/239.1.1.2:8002
 #EXTINF:-1 group-title="山西台",山西经济与科技频道
@@ -216,6 +215,8 @@ http://110.179.81.150:8082/udp/239.1.1.5:8005
 #EXTINF:-1 group-title="山西台",山西文体生活
 http://110.179.81.150:8082/udp/239.1.1.6:8006
 
+#EXTINF:-1 group-title="内蒙古台",内蒙古卫视
+http://58.41.4.194:8001/udp/239.45.1.238:5140
 #EXTINF:-1 group-title="内蒙古台",文体娱乐频道
 #EXTINF:-1 group-title="内蒙古台",经济生活频道
 #EXTINF:-1 group-title="内蒙古台",新闻综合频道
@@ -223,23 +224,42 @@ http://110.179.81.150:8082/udp/239.1.1.6:8006
 #EXTINF:-1 group-title="内蒙古台",少儿频道
 #EXTINF:-1 group-title="内蒙古台",蒙语文化频道
 
-#EXTINF:-1 group-title="辽宁台",都市频道
-#EXTINF:-1 group-title="辽宁台",公共频道
-#EXTINF:-1 group-title="辽宁台",教育·青少频道
-#EXTINF:-1 group-title="辽宁台",经济频道
-#EXTINF:-1 group-title="辽宁台",生活频道
-#EXTINF:-1 group-title="辽宁台",影视剧频道
-#EXTINF:-1 group-title="辽宁台",体育频道
-#EXTINF:-1 group-title="辽宁台",北方频道
+#EXTINF:-1 group-title="辽宁台",辽宁卫视
+http://58.41.4.194:8001/udp/239.45.1.123:5140
+#EXTINF:-1 group-title="辽宁台",辽宁都市频道
+http://175.168.117.158:4022/rtp/232.0.0.154:1234
+#EXTINF:-1 group-title="辽宁台",辽宁公共频道
+http://175.168.117.158:4022/rtp/232.0.0.168:1234
+#EXTINF:-1 group-title="辽宁台",辽宁教育·青少频道
+http://175.168.117.158:4022/rtp/232.0.0.241:1234
+#EXTINF:-1 group-title="辽宁台",辽宁经济频道
+http://175.168.117.158:4022/rtp/232.0.0.156:1234
+#EXTINF:-1 group-title="辽宁台",辽宁生活频道
+http://175.168.117.158:4022/rtp/232.0.0.150:1234
+#EXTINF:-1 group-title="辽宁台",辽宁影视剧频道
+http://175.168.117.158:4022/rtp/232.0.0.25:1234
+#EXTINF:-1 group-title="辽宁台",辽宁体育频道
+http://175.168.117.158:4022/rtp/232.0.0.164:1234
+#EXTINF:-1 group-title="辽宁台",辽宁北方频道
+http://175.168.117.158:4022/rtp/232.0.0.151:1234
 
-#EXTINF:-1 group-title="吉林台",都市频道
-#EXTINF:-1 group-title="吉林台",生活频道
-#EXTINF:-1 group-title="吉林台",影视频道
-#EXTINF:-1 group-title="吉林台",乡村频道
-#EXTINF:-1 group-title="吉林台",综艺·文化频道
-#EXTINF:-1 group-title="吉林台",公共·新闻频道
-#EXTINF:-1 group-title="吉林台",长影频道
-#EXTINF:-1 group-title="吉林台",延边卫视频道
+#EXTINF:-1 group-title="吉林台",吉林卫视
+http://58.41.4.194:8001/udp/239.45.0.6:5140
+#EXTINF:-1 group-title="吉林台",吉林都市频道
+http://124.234.240.160:58888/rtp/239.37.0.102:5540
+#EXTINF:-1 group-title="吉林台",吉林生活频道
+http://124.234.240.160:58888/rtp/239.37.0.104:5540
+#EXTINF:-1 group-title="吉林台",吉林影视频道
+http://124.234.240.160:58888/rtp/239.37.0.103:5540
+#EXTINF:-1 group-title="吉林台",吉林乡村频道
+http://124.234.240.160:58888/rtp/239.37.0.105:5540
+#EXTINF:-1 group-title="吉林台",吉林综艺·文化频道
+#EXTINF:-1 group-title="吉林台",吉林公共·新闻频道
+http://124.234.240.160:58888/rtp/239.37.0.106:5540
+#EXTINF:-1 group-title="吉林台",吉林长影频道
+http://124.234.240.160:58888/rtp/239.37.0.125:5540
+#EXTINF:-1 group-title="吉林台",延边卫视
+http://124.234.240.160:58888/rtp/239.37.0.116:5540
 
 #EXTINF:-1 group-title="黑龙江台",影视频道
 #EXTINF:-1 group-title="黑龙江台",文体频道
