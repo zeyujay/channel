@@ -1,6 +1,7 @@
 #EXTM3U
 #EXT-X-APP APTV
-#EXT-X-APTV-TYPE local
+#EXT-X-APTV-TYPE remote
+#EXT-X-SUB-URL https://raw.githubusercontent.com/zeyujay/channel/main/%E8%87%AA%E5%BB%BA%E7%94%B5%E8%A7%86.m3u
 
 #EXTINF:-1 group-title="CCTV",CCTV1
 http://58.41.4.194:8001/udp/239.45.3.145:5140
@@ -39,44 +40,41 @@ http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/inde
 #EXTINF:-1 group-title="CCTV",CCTV17
 http://58.41.4.194:8001/udp/239.45.3.52:5140
 #EXTINF:-1 group-title="CCTV",第一剧场
-http://27.184.19.54:4022/rtp/239.254.200.93:6227
+http://175.11.168.2:4022/udp/239.76.254.49:9000
 #EXTINF:-1 group-title="CCTV",风云剧场
-http://27.184.19.54:4022/rtp/239.254.200.94:6228
+http://175.11.168.2:4022/udp/239.76.254.50:9000
 #EXTINF:-1 group-title="CCTV",怀旧剧场
-http://27.184.19.54:4022/rtp/239.254.200.95:6229
+http://175.11.168.2:4022/udp/239.76.254.53:9000
 #EXTINF:-1 group-title="CCTV",风云音乐
-http://27.184.19.54:4022/rtp/239.254.200.96:6230
+http://175.11.168.2:4022/udp/239.76.254.51:9000
 #EXTINF:-1 group-title="CCTV",风云足球
-http://27.184.19.54:4022/rtp/239.254.200.97:6231
+http://175.11.168.2:4022/udp/239.76.254.52:9000
 #EXTINF:-1 group-title="CCTV",兵器科技
-http://27.184.19.54:4022/rtp/239.254.200.101:6235
+http://175.11.168.2:4022/udp/239.76.254.59:9000
 #EXTINF:-1 group-title="CCTV",世界地理
-http://27.184.19.54:4022/rtp/239.254.200.102:6236
+http://175.11.168.2:4022/udp/239.76.254.57:9000
 #EXTINF:-1 group-title="CCTV",女性时尚
-http://27.184.19.54:4022/rtp/239.254.200.110:6241
-#EXTINF:-1 group-title="CCTV",高尔夫·网球
-http://27.184.19.54:4022/rtp/239.254.200.98:6232
+http://175.11.168.2:4022/udp/239.76.254.55:9000
+#EXTINF:-1 tvg-logo="1" group-title="CCTV",高尔夫·网球
+http://175.11.168.2:4022/udp/239.76.254.62:9000
 #EXTINF:-1 group-title="CCTV",文化精品
-http://27.184.19.54:4022/rtp/239.254.200.111:6251
+http://175.11.168.2:4022/udp/239.76.254.56:9000
 #EXTINF:-1 group-title="CCTV",央视台球
-http://27.184.19.54:4022/rtp/239.254.201.171:7176
-
+http://175.11.168.2:4022/udp/239.76.254.58:9000
 #EXTINF:-1 group-title="CWTV",中国天气
 http://58.41.4.194:8001/udp/239.45.1.47:5140
-
-#EXTINF:-1 group-title="CGTN" tvg-logo="https://live.fanmingming.com/tv/CGTN.png",CGTN
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="CGTN",CGTN
 http://183.221.31.230:4088//udp/239.11.0.245:5140
-#EXTINF:-1 group-title="CGTN",CGTN记录
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CGTN记录.png" group-title="CGTN",CGTN记录
 https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
-#EXTINF:-1 group-title="CGTN",CGTN俄语
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CGTN俄语.png" group-title="CGTN",CGTN俄语
 https://liveru.cgtn.com/1000r/prog_index.m3u8
-#EXTINF:-1 group-title="CGTN",CGTN法语
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CGTN法语.png" group-title="CGTN",CGTN法语
 https://news.cgtn.com/resource/live/french/cgtn-f.m3u8
-#EXTINF:-1 group-title="CGTN",CGTN西语
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CGTN西语.png" group-title="CGTN",CGTN西语
 https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
-#EXTINF:-1 group-title="CGTN",CGTN阿语
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CGTN阿语.png" group-title="CGTN",CGTN阿语
 http://livear.cgtn.com/1000a/prog_index.m3u8
-
 #EXTINF:-1 group-title="CETV",CETV-1
 http://183.221.31.230:4088//udp/239.11.0.139:5140
 #EXTINF:-1 group-title="CETV",CETV-2
@@ -85,7 +83,6 @@ http://183.221.31.230:4088//udp/239.11.0.246:5140
 http://183.221.31.230:4088//udp/239.11.0.247:5140
 #EXTINF:-1 group-title="CETV",CETV-4
 http://183.221.31.230:4088//udp/239.11.0.248:5140
-
 #EXTINF:-1 group-title="CHC",CHC动作电影
 http://124.234.240.160:58888/rtp/239.37.0.186:5540
 #EXTINF:-1 group-title="CHC",CHC家庭影院
@@ -93,16 +90,13 @@ http://124.234.240.160:58888/rtp/239.37.0.188:5540
 #EXTINF:-1 group-title="CHC",CHC高清电影
 http://124.234.240.160:58888/rtp/239.37.0.187:5540
 
-#EXTINF:-1 group-title="卫视",东方卫视
-http://58.41.4.194:8001/udp/239.45.3.146:5140
 #EXTINF:-1 group-title="卫视",浙江卫视
 http://58.41.4.194:8001/udp/239.45.3.178:5140
 #EXTINF:-1 group-title="卫视",湖南卫视
 http://58.41.4.194:8001/udp/239.45.3.228:5140
 #EXTINF:-1 group-title="卫视",江苏卫视
 http://58.41.4.194:8001/udp/239.45.3.177:5140
-#EXTINF:-1 group-title="卫视",北京卫视
-http://58.41.4.194:8001/udp/239.45.3.229:5140
+
 #EXTINF:-1 group-title="卫视",广东卫视
 http://58.41.4.194:8001/udp/239.45.3.230:5140
 #EXTINF:-1 group-title="卫视",深圳卫视
@@ -115,8 +109,6 @@ http://58.41.4.194:8001/udp/239.45.3.238:5140
 http://58.41.4.194:8001/udp/239.45.3.239:5140
 #EXTINF:-1 group-title="卫视",安徽卫视
 http://58.41.4.194:8001/udp/239.45.1.120:5140
-#EXTINF:-1 group-title="卫视",东南卫视
-http://58.41.4.194:8001/udp/239.45.1.121:5140
 #EXTINF:-1 group-title="卫视",江西卫视
 http://58.41.4.194:8001/udp/239.45.1.122:5140
 #EXTINF:-1 group-title="卫视",辽宁卫视
@@ -162,49 +154,223 @@ http://58.41.4.194:8001/udp/239.45.1.117:5140
 #EXTINF:-1 group-title="卫视",康巴卫视
 http://58.41.4.194:8001/udp/239.45.1.251:5140
 
-#EXTINF:-1 group-title="上海",新闻综合
-http://58.41.4.194:8001/udp/239.45.3.209:5140
-#EXTINF:-1 group-title="上海",第一财经
-http://58.41.4.194:8001/udp/239.45.3.211:5140
-#EXTINF:-1 group-title="上海",都市频道
-http://58.41.4.194:8001/udp/239.45.3.236:5140
-#EXTINF:-1 group-title="上海",东方影视
-http://58.41.4.194:8001/udp/239.45.3.237:5140
-#EXTINF:-1 group-title="上海",五星体育
-http://58.41.4.194:8001/udp/239.45.3.210:5140
-#EXTINF:-1 group-title="上海",纪实人文
-http://58.41.4.194:8001/udp/239.45.3.212:5140
-#EXTINF:-1 group-title="上海",外语频道
-http://58.41.4.194:8001/udp/239.45.1.127:5140
-#EXTINF:-1 group-title="上海",哈哈炫动
-http://58.41.4.194:8001/udp/239.45.1.55:5140
+#EXTINF:-1 group-title="北京台",北京卫视
+http://1.203.184.77:4000/udp/225.1.8.21:8002
+#EXTINF:-1 group-title="北京台",文艺频道
+http://1.203.184.77:4000/udp/225.1.8.22:8002
+#EXTINF:-1 group-title="北京台",体育休闲频道
+http://1.203.184.77:4000/udp/225.1.8.23:8002
+#EXTINF:-1 group-title="北京台",影视频道
+http://1.203.184.77:4000/udp/225.1.8.82:8000
+#EXTINF:-1 group-title="北京台",财经频道
+http://1.203.184.77:4000/udp/225.1.8.106:8002
+#EXTINF:-1 group-title="北京台",生活频道
+http://1.203.184.77:4000/udp/225.1.8.108:8002
+#EXTINF:-1 group-title="北京台",新闻频道
+http://1.203.184.77:4000/udp/225.1.8.83:8000
+#EXTINF:-1 group-title="北京台",卡酷少儿频道
+http://1.203.184.77:4000/udp/225.1.8.35:8000
+#EXTINF:-1 group-title="北京台",纪实科教频道
+http://1.203.184.77:4000/udp/225.1.8.105:8002
 
-#EXTINF:-1 group-title="上海",金色学堂
+#EXTINF:-1 group-title="天津台",天津卫视
+http://221.196.136.54:9998/udp/225.1.1.111:5002
+#EXTINF:-1 group-title="天津台",新闻频道
+http://221.196.136.54:9998/udp/225.1.1.130:5002
+#EXTINF:-1 group-title="天津台",文艺频道
+http://221.196.136.54:9998/udp/225.1.1.131:5002
+#EXTINF:-1 group-title="天津台",影视频道
+http://221.196.136.54:9998/udp/225.1.1.149:5002
+#EXTINF:-1 group-title="天津台",都市频道
+http://221.196.136.54:9998/udp/225.1.1.128:5002
+#EXTINF:-1 group-title="天津台",体育频道
+http://221.196.136.54:9998/udp/225.1.1.122:5002
+#EXTINF:-1 group-title="天津台",教育频道
+http://221.196.136.54:9998/udp/225.1.1.129:5002
+
+#EXTINF:-1 group-title="河北台",经济生活频道
+#EXTINF:-1 group-title="河北台",都市频道
+#EXTINF:-1 group-title="河北台",影视剧频道
+#EXTINF:-1 group-title="河北台",少儿·科教频道
+#EXTINF:-1 group-title="河北台",公共频道
+#EXTINF:-1 group-title="河北台",农民频道
+
+#EXTINF:-1 group-title="山西台",山西黄河
+#EXTINF:-1 group-title="山西台",经济与科技频道
+#EXTINF:-1 group-title="山西台",影视频道
+#EXTINF:-1 group-title="山西台",社会与法治频道
+#EXTINF:-1 group-title="山西台",文体生活
+
+#EXTINF:-1 group-title="内蒙古台",文体娱乐频道
+#EXTINF:-1 group-title="内蒙古台",经济生活频道
+#EXTINF:-1 group-title="内蒙古台",新闻综合频道
+#EXTINF:-1 group-title="内蒙古台",农牧频道
+#EXTINF:-1 group-title="内蒙古台",少儿频道
+#EXTINF:-1 group-title="内蒙古台",蒙语文化频道
+
+#EXTINF:-1 group-title="辽宁台",都市频道
+#EXTINF:-1 group-title="辽宁台",公共频道
+#EXTINF:-1 group-title="辽宁台",教育·青少频道
+#EXTINF:-1 group-title="辽宁台",经济频道
+#EXTINF:-1 group-title="辽宁台",生活频道
+#EXTINF:-1 group-title="辽宁台",影视剧频道
+#EXTINF:-1 group-title="辽宁台",体育频道
+#EXTINF:-1 group-title="辽宁台",北方频道
+
+#EXTINF:-1 group-title="吉林台",都市频道
+#EXTINF:-1 group-title="吉林台",生活频道
+#EXTINF:-1 group-title="吉林台",影视频道
+#EXTINF:-1 group-title="吉林台",乡村频道
+#EXTINF:-1 group-title="吉林台",综艺·文化频道
+#EXTINF:-1 group-title="吉林台",公共·新闻频道
+#EXTINF:-1 group-title="吉林台",长影频道
+#EXTINF:-1 group-title="吉林台",延边卫视频道
+
+#EXTINF:-1 group-title="黑龙江台",影视频道
+#EXTINF:-1 group-title="黑龙江台",文体频道
+#EXTINF:-1 group-title="黑龙江台",都市频道
+#EXTINF:-1 group-title="黑龙江台",新闻·法治
+#EXTINF:-1 group-title="黑龙江台",农业·科教频道
+#EXTINF:-1 group-title="黑龙江台",少儿频道
+
+#EXTINF:-1 group-title="卫视",东方卫视
+http://58.41.4.194:8001/udp/239.45.3.146:5140
+#EXTINF:-1 group-title="上海台",新闻综合
+http://58.41.4.194:8001/udp/239.45.3.209:5140
+#EXTINF:-1 group-title="上海台",第一财经
+http://58.41.4.194:8001/udp/239.45.3.211:5140
+#EXTINF:-1 group-title="上海台",都市频道
+http://58.41.4.194:8001/udp/239.45.3.236:5140
+#EXTINF:-1 group-title="上海台",东方影视
+http://58.41.4.194:8001/udp/239.45.3.237:5140
+#EXTINF:-1 group-title="上海台",五星体育
+http://58.41.4.194:8001/udp/239.45.3.210:5140
+#EXTINF:-1 group-title="上海台",纪实人文
+http://58.41.4.194:8001/udp/239.45.3.212:5140
+#EXTINF:-1 group-title="上海台",外语频道
+http://58.41.4.194:8001/udp/239.45.1.127:5140
+#EXTINF:-1 group-title="上海台",哈哈炫动
+http://58.41.4.194:8001/udp/239.45.1.55:5140
+#EXTINF:-1 group-title="上海台",金色学堂
 http://58.41.4.194:8001/udp/239.45.1.118:5140
-#EXTINF:-1 group-title="上海",七彩戏剧
+#EXTINF:-1 group-title="上海台",七彩戏剧
 http://58.41.4.194:8001/udp/239.45.3.61:5140
-#EXTINF:-1 group-title="上海",东方财经
+#EXTINF:-1 group-title="上海台",东方财经
 http://58.41.4.194:8001/udp/239.45.1.119:5140
-#EXTINF:-1 group-title="上海",法治天地
+#EXTINF:-1 group-title="上海台",法治天地
 http://58.41.4.194:8001/udp/239.45.1.46:5140
-#EXTINF:-1 group-title="上海",新视觉
+#EXTINF:-1 group-title="上海台",新视觉
 http://111.124.98.66:8188/rtp/238.255.2.195:5999
-#EXTINF:-1 group-title="上海",劲爆体育
-#EXTINF:-1 group-title="上海",魅力足球
-#EXTINF:-1 group-title="上海",乐游频道
+#EXTINF:-1 group-title="上海台",乐游频道
 http://58.41.4.194:8001/udp/239.45.3.135:5140
-#EXTINF:-1 group-title="上海",动漫秀场
+#EXTINF:-1 group-title="上海台",动漫秀场
 http://58.41.4.194:8001/udp/239.45.3.134:5140
-#EXTINF:-1 group-title="上海",都市剧场
+#EXTINF:-1 group-title="上海台",都市剧场
 http://58.41.4.194:8001/udp/239.45.3.136:5140
-#EXTINF:-1 group-title="上海",欢笑剧场
+#EXTINF:-1 group-title="上海台",欢笑剧场
 http://58.41.4.194:8001/udp/239.45.3.196:5140
-#EXTINF:-1 group-title="上海",生活时尚
+#EXTINF:-1 group-title="上海台",生活时尚
 http://58.41.4.194:8001/udp/239.45.3.132:5140
-#EXTINF:-1 group-title="上海",游戏风云
+#EXTINF:-1 group-title="上海台",游戏风云
 http://58.41.4.194:8001/udp/239.45.3.131:5140
-#EXTINF:-1 group-title="上海",百事通4K
+#EXTINF:-1 group-title="上海台",百事通4K
 http://58.41.4.194:8001/udp/239.45.1.42:5140
+
+#EXTINF:-1 group-title="江苏台",城市频道
+#EXTINF:-1 group-title="江苏台",综艺频道
+#EXTINF:-1 group-title="江苏台",影视频道
+#EXTINF:-1 group-title="江苏台",体育休闲频道
+#EXTINF:-1 group-title="江苏台",新闻频道
+#EXTINF:-1 group-title="江苏台",优漫卡通频道
+#EXTINF:-1 group-title="江苏台",教育频道
+#EXTINF:-1 group-title="江苏台",国际频道
+
+#EXTINF:-1 group-title="浙江台",钱江都市频道
+#EXTINF:-1 group-title="浙江台",经济生活频道
+#EXTINF:-1 group-title="浙江台",教科影视频道
+#EXTINF:-1 group-title="浙江台",民生休闲频道
+#EXTINF:-1 group-title="浙江台",新闻频道
+#EXTINF:-1 group-title="浙江台",少儿频道
+#EXTINF:-1 group-title="浙江台",国际频道
+
+#EXTINF:-1 group-title="安徽台",经济生活频道
+#EXTINF:-1 group-title="安徽台",影视频道
+#EXTINF:-1 group-title="安徽台",综艺•体育频道
+#EXTINF:-1 group-title="安徽台",农业•科教频道
+#EXTINF:-1 group-title="安徽台",公共频道
+#EXTINF:-1 group-title="安徽台",国际频道
+
+#EXTINF:-1 group-title="福建台",综合频道
+http://110.85.184.240:9999/rtp/239.61.3.4:9542
+#EXTINF:-1 group-title="福建台",东南卫视
+http://110.85.184.240:9999/rtp/239.61.2.132:8708
+#EXTINF:-1 group-title="福建台",乡村振兴·公共频道
+http://110.85.184.240:9999/rtp/239.61.2.3:8012
+#EXTINF:-1 group-title="福建台",新闻频道
+http://110.85.184.240:9999/rtp/239.61.2.4:8018
+#EXTINF:-1 group-title="福建台",电视剧频道
+http://110.85.184.240:9999/rtp/239.61.2.5:8024
+#EXTINF:-1 group-title="福建台",旅游频道
+http://110.85.184.240:9999/rtp/239.61.2.6:8030
+#EXTINF:-1 group-title="福建台",经济生活频道
+http://110.85.184.240:9999/rtp/239.61.2.7:8036
+#EXTINF:-1 group-title="福建台",文体频道
+http://110.85.184.240:9999/rtp/239.61.2.160:8948
+#EXTINF:-1 group-title="福建台",少儿频道
+http://110.85.184.240:9999/rtp/239.61.2.9:8048
+#EXTINF:-1 group-title="福建台",海峡卫视
+http://110.85.184.240:9999/rtp/239.61.2.151:8894
+
+
+#EXTINF:-1 group-title="江西台",都市频道
+#EXTINF:-1 group-title="江西台",都市频道
+#EXTINF:-1 group-title="江西台",都市频道
+#EXTINF:-1 group-title="江西台",都市频道
+#EXTINF:-1 group-title="江西台",都市频道
+#EXTINF:-1 group-title="江西台",都市频道
+#EXTINF:-1 group-title="江西台",都市频道
+#EXTINF:-1 group-title="江西台",都市频道
+#EXTINF:-1 group-title="江西台",都市频道
+#EXTINF:-1 group-title="江西台",都市频道
+#EXTINF:-1 group-title="江西台",都市频道
+#EXTINF:-1 group-title="江西台",都市频道
+#EXTINF:-1 group-title="江西台",都市频道
+#EXTINF:-1 group-title="江西台",都市频道
+
+#EXTINF:-1 group-title="山东台",都市频道
+#EXTINF:-1 group-title="山东台",都市频道
+#EXTINF:-1 group-title="山东台",都市频道
+#EXTINF:-1 group-title="山东台",都市频道
+#EXTINF:-1 group-title="山东台",都市频道
+#EXTINF:-1 group-title="山东台",都市频道
+#EXTINF:-1 group-title="山东台",都市频道
+#EXTINF:-1 group-title="山东台",都市频道
+#EXTINF:-1 group-title="山东台",都市频道
+#EXTINF:-1 group-title="山东台",都市频道
+#EXTINF:-1 group-title="山东台",都市频道
+
+
+#EXTINF:-1 group-title="河南台",都市频道
+#EXTINF:-1 group-title="河南台",民生频道
+#EXTINF:-1 group-title="河南台",法治频道
+#EXTINF:-1 group-title="河南台",电视剧频道
+#EXTINF:-1 group-title="河南台",新闻频道
+#EXTINF:-1 group-title="河南台",公共频道
+#EXTINF:-1 group-title="河南台",乡村频道
+#EXTINF:-1 group-title="河南台",国际频道
+#EXTINF:-1 group-title="河南台",都市频道
+#EXTINF:-1 group-title="河南台",都市频道
+
+#EXTINF:-1 group-title="湖北台",都市频道
+#EXTINF:-1 group-title="湖北台",都市频道
+#EXTINF:-1 group-title="湖北台",都市频道
+#EXTINF:-1 group-title="湖北台",都市频道
+#EXTINF:-1 group-title="湖北台",都市频道
+#EXTINF:-1 group-title="湖北台",都市频道
+#EXTINF:-1 group-title="湖北台",都市频道
+#EXTINF:-1 group-title="湖北台",都市频道
+#EXTINF:-1 group-title="湖北台",都市频道
+#EXTINF:-1 group-title="湖北台",都市频道
 
 #EXTINF:-1 group-title="湖南",金鹰卡通
 http://58.41.4.194:8001/udp/239.45.3.118:5140
@@ -214,8 +380,141 @@ http://58.41.4.194:8001/udp/239.45.1.45:5140
 #EXTINF:-1 group-title="广东",嘉佳卡通
 http://58.41.4.194:8001/udp/239.45.1.48:5140
 
-#EXTINF:-1 group-title="北京",卡酷少儿
-http://58.41.4.194:8001/udp/239.45.0.8:5140
+#EXTINF:-1 group-title="广西台",都市频道
+#EXTINF:-1 group-title="广西台",都市频道
+#EXTINF:-1 group-title="广西台",都市频道
+#EXTINF:-1 group-title="广西台",都市频道
+#EXTINF:-1 group-title="广西台",都市频道
+#EXTINF:-1 group-title="广西台",都市频道
+#EXTINF:-1 group-title="广西台",都市频道
+#EXTINF:-1 group-title="广西台",都市频道
+#EXTINF:-1 group-title="广西台",都市频道
+#EXTINF:-1 group-title="广西台",都市频道
+#EXTINF:-1 group-title="广西台",都市频道
+#EXTINF:-1 group-title="广西台",都市频道
+
+#EXTINF:-1 group-title="海南台",都市频道
+#EXTINF:-1 group-title="海南台",都市频道
+#EXTINF:-1 group-title="海南台",都市频道
+#EXTINF:-1 group-title="海南台",都市频道
+#EXTINF:-1 group-title="海南台",都市频道
+#EXTINF:-1 group-title="海南台",都市频道
+#EXTINF:-1 group-title="海南台",都市频道
+#EXTINF:-1 group-title="海南台",都市频道
+#EXTINF:-1 group-title="海南台",都市频道
+#EXTINF:-1 group-title="海南台",都市频道
+#EXTINF:-1 group-title="海南台",都市频道
+
+#EXTINF:-1 group-title="重庆台",都市频道
+#EXTINF:-1 group-title="重庆台",都市频道
+#EXTINF:-1 group-title="重庆台",都市频道
+#EXTINF:-1 group-title="重庆台",都市频道
+#EXTINF:-1 group-title="重庆台",都市频道
+#EXTINF:-1 group-title="重庆台",都市频道
+#EXTINF:-1 group-title="重庆台",都市频道
+#EXTINF:-1 group-title="重庆台",都市频道
+#EXTINF:-1 group-title="重庆台",都市频道
+#EXTINF:-1 group-title="重庆台",都市频道
+
+#EXTINF:-1 group-title="四川台",都市频道
+#EXTINF:-1 group-title="四川台",都市频道
+#EXTINF:-1 group-title="四川台",都市频道
+#EXTINF:-1 group-title="四川台",都市频道
+#EXTINF:-1 group-title="四川台",都市频道
+#EXTINF:-1 group-title="四川台",都市频道
+#EXTINF:-1 group-title="四川台",都市频道
+#EXTINF:-1 group-title="四川台",都市频道
+#EXTINF:-1 group-title="四川台",都市频道
+#EXTINF:-1 group-title="四川台",都市频道
+
+
+#EXTINF:-1 group-title="贵州台",天元围棋
+http://27.184.19.54:4022/rtp/239.254.201.156:6270
+
+#EXTINF:-1 group-title="云南台",都市频道
+#EXTINF:-1 group-title="云南台",都市频道
+#EXTINF:-1 group-title="云南台",都市频道
+#EXTINF:-1 group-title="云南台",都市频道
+#EXTINF:-1 group-title="云南台",都市频道
+#EXTINF:-1 group-title="云南台",都市频道
+#EXTINF:-1 group-title="云南台",都市频道
+#EXTINF:-1 group-title="云南台",都市频道
+#EXTINF:-1 group-title="云南台",都市频道
+#EXTINF:-1 group-title="云南台",都市频道
+#EXTINF:-1 group-title="云南台",都市频道
+
+#EXTINF:-1 group-title="西藏台",都市频道
+#EXTINF:-1 group-title="西藏台",都市频道
+#EXTINF:-1 group-title="西藏台",都市频道
+#EXTINF:-1 group-title="西藏台",都市频道
+#EXTINF:-1 group-title="西藏台",都市频道
+#EXTINF:-1 group-title="西藏台",都市频道
+#EXTINF:-1 group-title="西藏台",都市频道
+#EXTINF:-1 group-title="西藏台",都市频道
+#EXTINF:-1 group-title="西藏台",都市频道
+#EXTINF:-1 group-title="西藏台",都市频道
+#EXTINF:-1 group-title="西藏台",都市频道
+#EXTINF:-1 group-title="西藏台",都市频道
+
+#EXTINF:-1 group-title="陕西台",都市频道
+#EXTINF:-1 group-title="陕西台",都市频道
+#EXTINF:-1 group-title="陕西台",都市频道
+#EXTINF:-1 group-title="陕西台",都市频道
+#EXTINF:-1 group-title="陕西台",都市频道
+#EXTINF:-1 group-title="陕西台",都市频道
+#EXTINF:-1 group-title="陕西台",都市频道
+#EXTINF:-1 group-title="陕西台",都市频道
+#EXTINF:-1 group-title="陕西台",都市频道
+#EXTINF:-1 group-title="陕西台",都市频道
+
+#EXTINF:-1 group-title="甘肃台",都市频道
+#EXTINF:-1 group-title="甘肃台",都市频道
+#EXTINF:-1 group-title="甘肃台",都市频道
+#EXTINF:-1 group-title="甘肃台",都市频道
+#EXTINF:-1 group-title="甘肃台",都市频道
+#EXTINF:-1 group-title="甘肃台",都市频道
+#EXTINF:-1 group-title="甘肃台",都市频道
+#EXTINF:-1 group-title="甘肃台",都市频道
+#EXTINF:-1 group-title="甘肃台",都市频道
+#EXTINF:-1 group-title="甘肃台",都市频道
+
+#EXTINF:-1 group-title="青海台",都市频道
+#EXTINF:-1 group-title="青海台",都市频道
+#EXTINF:-1 group-title="青海台",都市频道
+#EXTINF:-1 group-title="青海台",都市频道
+#EXTINF:-1 group-title="青海台",都市频道
+#EXTINF:-1 group-title="青海台",都市频道
+#EXTINF:-1 group-title="青海台",都市频道
+#EXTINF:-1 group-title="青海台",都市频道
+#EXTINF:-1 group-title="青海台",都市频道
+#EXTINF:-1 group-title="青海台",都市频道
+#EXTINF:-1 group-title="青海台",都市频道
+
+#EXTINF:-1 group-title="宁夏台",都市频道
+#EXTINF:-1 group-title="宁夏台",都市频道
+#EXTINF:-1 group-title="宁夏台",都市频道
+#EXTINF:-1 group-title="宁夏台",都市频道
+#EXTINF:-1 group-title="宁夏台",都市频道
+#EXTINF:-1 group-title="宁夏台",都市频道
+#EXTINF:-1 group-title="宁夏台",都市频道
+#EXTINF:-1 group-title="宁夏台",都市频道
+#EXTINF:-1 group-title="宁夏台",都市频道
+#EXTINF:-1 group-title="宁夏台",都市频道
+
+#EXTINF:-1 group-title="兵团台",都市频道
+#EXTINF:-1 group-title="兵团台",都市频道
+#EXTINF:-1 group-title="兵团台",都市频道
+
+#EXTINF:-1 group-title="新疆台",都市频道
+#EXTINF:-1 group-title="新疆台",都市频道
+#EXTINF:-1 group-title="新疆台",都市频道
+#EXTINF:-1 group-title="新疆台",都市频道
+#EXTINF:-1 group-title="新疆台",都市频道
+#EXTINF:-1 group-title="新疆台",都市频道
+#EXTINF:-1 group-title="新疆台",都市频道
+#EXTINF:-1 group-title="新疆台",都市频道
+#EXTINF:-1 group-title="新疆台",都市频道
+
 
 #EXTINF:-1 group-title="iHOT",爱怀旧
 http://182.149.107.192:8888/udp/239.93.42.21:5140
@@ -283,8 +582,7 @@ http://183.221.31.230:4088//udp/239.11.0.145:5140
 #EXTINF:-1 group-title="NewTV",未知
 http://183.221.31.230:4088//udp/239.11.0.147:5140
 
-#EXTINF:-1 group-title="其他",天元围棋
-http://27.184.19.54:4022/rtp/239.254.201.156:6270
+
 
 #EXTINF:-1 group-title="测试",测试
-http://111.175.63.119:4022/rtp/239.69.1.74:10084
+http://175.11.168.2:4022/udp/239.76.254.43:9000
