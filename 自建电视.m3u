@@ -101,8 +101,7 @@ http://58.41.4.194:8001/udp/239.45.3.177:5140
 http://58.41.4.194:8001/udp/239.45.3.230:5140
 #EXTINF:-1 group-title="卫视",深圳卫视
 http://58.41.4.194:8001/udp/239.45.3.231:5140
-#EXTINF:-1 group-title="卫视",黑龙江卫视
-http://58.41.4.194:8001/udp/239.45.3.232:5140
+
 #EXTINF:-1 group-title="卫视",山东卫视
 http://58.41.4.194:8001/udp/239.45.3.238:5140
 #EXTINF:-1 group-title="卫视",湖北卫视
@@ -261,12 +260,20 @@ http://124.234.240.160:58888/rtp/239.37.0.125:5540
 #EXTINF:-1 group-title="吉林台",延边卫视
 http://124.234.240.160:58888/rtp/239.37.0.116:5540
 
-#EXTINF:-1 group-title="黑龙江台",影视频道
-#EXTINF:-1 group-title="黑龙江台",文体频道
-#EXTINF:-1 group-title="黑龙江台",都市频道
-#EXTINF:-1 group-title="黑龙江台",新闻·法治
-#EXTINF:-1 group-title="黑龙江台",农业·科教频道
-#EXTINF:-1 group-title="黑龙江台",少儿频道
+#EXTINF:-1 group-title="黑龙江台",黑龙江卫视
+http://58.41.4.194:8001/udp/239.45.3.232:5140
+#EXTINF:-1 group-title="黑龙江台",黑龙江影视频道
+http://1.62.113.199:4001/udp/229.58.190.14:5000
+#EXTINF:-1 group-title="黑龙江台",黑龙江文体频道
+http://1.62.113.199:4001/udp/229.58.190.30:5000
+#EXTINF:-1 group-title="黑龙江台",黑龙江都市频道
+http://1.62.113.199:4001/udp/229.58.190.34:5000
+#EXTINF:-1 group-title="黑龙江台",黑龙江新闻·法治
+http://1.62.113.199:4001/udp/229.58.190.16:5000
+#EXTINF:-1 group-title="黑龙江台",黑龙江农业·科教频道
+http://1.62.113.199:4001/udp/229.58.190.7:5000
+#EXTINF:-1 group-title="黑龙江台",黑龙江少儿频道
+http://1.62.113.199:4001/udp/229.58.190.39:5000
 
 #EXTINF:-1 group-title="上海台",东方卫视
 http://58.41.4.194:8001/udp/239.45.3.146:5140
@@ -311,106 +318,162 @@ http://58.41.4.194:8001/udp/239.45.3.131:5140
 #EXTINF:-1 group-title="上海台",百事通4K
 http://58.41.4.194:8001/udp/239.45.1.42:5140
 
-#EXTINF:-1 group-title="江苏台",城市频道
-#EXTINF:-1 group-title="江苏台",综艺频道
-#EXTINF:-1 group-title="江苏台",影视频道
-#EXTINF:-1 group-title="江苏台",体育休闲频道
-#EXTINF:-1 group-title="江苏台",新闻频道
-#EXTINF:-1 group-title="江苏台",优漫卡通频道
-#EXTINF:-1 group-title="江苏台",教育频道
-#EXTINF:-1 group-title="江苏台",国际频道
+#EXTINF:-1 group-title="江苏台",江苏城市频道
+http://114.225.119.160:8383/rtp/239.49.9.35:6000
+#EXTINF:-1 group-title="江苏台",江苏综艺频道
+http://114.225.119.160:8383/rtp/239.49.9.36:6000
+#EXTINF:-1 group-title="江苏台",江苏影视频道
+http://114.225.119.160:8383/rtp/239.49.9.38:6000
+#EXTINF:-1 group-title="江苏台",江苏体育休闲频道
+http://114.225.119.160:8383/rtp/239.49.9.37:6000
+#EXTINF:-1 group-title="江苏台",江苏新闻频道
+http://114.225.119.160:8383/rtp/239.49.9.40:6000
+#EXTINF:-1 group-title="江苏台",江苏优漫卡通频道
+http://114.225.119.160:8383/rtp/239.49.9.39:6000
+#EXTINF:-1 group-title="江苏台",江苏教育频道
+http://114.225.119.160:8383/rtp/239.49.9.42:6000
+#EXTINF:-1 group-title="江苏台",江苏国际频道
+http://114.225.119.160:8383/rtp/239.49.1.23:6000
 
-#EXTINF:-1 group-title="浙江台",钱江都市频道
-#EXTINF:-1 group-title="浙江台",经济生活频道
-#EXTINF:-1 group-title="浙江台",教科影视频道
-#EXTINF:-1 group-title="浙江台",民生休闲频道
-#EXTINF:-1 group-title="浙江台",新闻频道
-#EXTINF:-1 group-title="浙江台",少儿频道
-#EXTINF:-1 group-title="浙江台",国际频道
+#EXTINF:-1 group-title="浙江台",浙江钱江都市频道
+http://220.188.50.124:8888/rtp/233.50.201.132:5140
+#EXTINF:-1 group-title="浙江台",浙江经济生活频道
+http://220.188.50.124:8888/rtp/233.50.201.133:5140
+#EXTINF:-1 group-title="浙江台",浙江教科影视频道
+http://220.188.50.124:8888/rtp/233.50.201.134:5140
+#EXTINF:-1 group-title="浙江台",浙江民生休闲频道
+http://220.188.50.124:8888/rtp/233.50.201.136:5140
+#EXTINF:-1 group-title="浙江台",浙江新闻频道
+http://220.188.50.124:8888/rtp/233.50.201.137:5140
+#EXTINF:-1 group-title="浙江台",浙江少儿频道
+http://220.188.50.124:8888/rtp/233.50.201.138:5140
 
-#EXTINF:-1 group-title="安徽台",经济生活频道
-#EXTINF:-1 group-title="安徽台",影视频道
-#EXTINF:-1 group-title="安徽台",综艺•体育频道
-#EXTINF:-1 group-title="安徽台",农业•科教频道
-#EXTINF:-1 group-title="安徽台",公共频道
-#EXTINF:-1 group-title="安徽台",国际频道
+#EXTINF:-1 group-title="安徽台",安徽经济生活频道
+http://114.96.132.121:8888/rtp/238.1.79.44:4464
+#EXTINF:-1 group-title="安徽台",安徽影视频道
+http://114.96.132.121:8888/rtp/238.1.79.42:4448
+#EXTINF:-1 group-title="安徽台",安徽综艺•体育频道
+http://114.96.132.121:8888/rtp/238.1.79.41:4440
+#EXTINF:-1 group-title="安徽台",安徽农业•科教频道
+http://114.96.132.121:8888/rtp/238.1.79.40:4432
+#EXTINF:-1 group-title="安徽台",安徽公共频道
+http://114.96.132.121:8888/rtp/238.1.79.43:4456
+#EXTINF:-1 group-title="安徽台",安徽国际频道
+http://114.96.132.121:8888/rtp/238.1.78.61:6360
 
-#EXTINF:-1 group-title="福建台",综合频道
+#EXTINF:-1 group-title="福建台",福建综合频道
 http://110.85.184.240:9999/rtp/239.61.3.4:9542
-#EXTINF:-1 group-title="福建台",东南卫视
+#EXTINF:-1 group-title="福建台",福建东南卫视
 http://110.85.184.240:9999/rtp/239.61.2.132:8708
-#EXTINF:-1 group-title="福建台",乡村振兴·公共频道
+#EXTINF:-1 group-title="福建台",福建乡村振兴·公共频道
 http://110.85.184.240:9999/rtp/239.61.2.3:8012
-#EXTINF:-1 group-title="福建台",新闻频道
+#EXTINF:-1 group-title="福建台",福建新闻频道
 http://110.85.184.240:9999/rtp/239.61.2.4:8018
-#EXTINF:-1 group-title="福建台",电视剧频道
+#EXTINF:-1 group-title="福建台",福建电视剧频道
 http://110.85.184.240:9999/rtp/239.61.2.5:8024
-#EXTINF:-1 group-title="福建台",旅游频道
+#EXTINF:-1 group-title="福建台",福建旅游频道
 http://110.85.184.240:9999/rtp/239.61.2.6:8030
-#EXTINF:-1 group-title="福建台",经济生活频道
+#EXTINF:-1 group-title="福建台",福建经济生活频道
 http://110.85.184.240:9999/rtp/239.61.2.7:8036
-#EXTINF:-1 group-title="福建台",文体频道
+#EXTINF:-1 group-title="福建台",福建文体频道
 http://110.85.184.240:9999/rtp/239.61.2.160:8948
-#EXTINF:-1 group-title="福建台",少儿频道
+#EXTINF:-1 group-title="福建台",福建少儿频道
 http://110.85.184.240:9999/rtp/239.61.2.9:8048
-#EXTINF:-1 group-title="福建台",海峡卫视
+#EXTINF:-1 group-title="福建台",福建海峡卫视
 http://110.85.184.240:9999/rtp/239.61.2.151:8894
 
 
-#EXTINF:-1 group-title="江西台",都市频道
-#EXTINF:-1 group-title="江西台",都市频道
-#EXTINF:-1 group-title="江西台",都市频道
-#EXTINF:-1 group-title="江西台",都市频道
-#EXTINF:-1 group-title="江西台",都市频道
-#EXTINF:-1 group-title="江西台",都市频道
-#EXTINF:-1 group-title="江西台",都市频道
-#EXTINF:-1 group-title="江西台",都市频道
-#EXTINF:-1 group-title="江西台",都市频道
-#EXTINF:-1 group-title="江西台",都市频道
-#EXTINF:-1 group-title="江西台",都市频道
-#EXTINF:-1 group-title="江西台",都市频道
-#EXTINF:-1 group-title="江西台",都市频道
-#EXTINF:-1 group-title="江西台",都市频道
+#EXTINF:-1 group-title="江西台",江西都市频道
+http://59.55.191.2:8888/udp/239.252.220.238:5140
+#EXTINF:-1 group-title="江西台",江西经济生活频道
+http://59.55.191.2:8888/udp/239.252.219.173:5140
+#EXTINF:-1 group-title="江西台",江西影视·旅游频道
+#EXTINF:-1 group-title="江西台",江西公共·农业频道
+http://59.55.191.2:8888/udp/239.252.220.102:5140
+#EXTINF:-1 group-title="江西台",江西少儿频道
+http://59.55.191.2:8888/udp/239.252.219.113:5140
+#EXTINF:-1 group-title="江西台",江西新闻频道
+http://59.55.191.2:8888/udp/239.252.220.100:5140
 
-#EXTINF:-1 group-title="山东台",都市频道
-#EXTINF:-1 group-title="山东台",都市频道
-#EXTINF:-1 group-title="山东台",都市频道
-#EXTINF:-1 group-title="山东台",都市频道
-#EXTINF:-1 group-title="山东台",都市频道
-#EXTINF:-1 group-title="山东台",都市频道
-#EXTINF:-1 group-title="山东台",都市频道
-#EXTINF:-1 group-title="山东台",都市频道
-#EXTINF:-1 group-title="山东台",都市频道
-#EXTINF:-1 group-title="山东台",都市频道
-#EXTINF:-1 group-title="山东台",都市频道
+#EXTINF:-1 group-title="山东台",山东齐鲁频道
+http://113.121.231.238:4022/udp/239.21.1.134:5002
+#EXTINF:-1 group-title="山东台",山东文旅频道
+http://113.121.231.238:4022/udp/239.21.1.176:5002
+#EXTINF:-1 group-title="山东台",山东综艺频道
+http://113.121.231.238:4022/udp/239.21.1.177:5002
+#EXTINF:-1 group-title="山东台",山东生活频道
+http://113.121.231.238:4022/udp/239.21.1.175:5002
+#EXTINF:-1 group-title="山东台",山东体育休闲频道
+http://113.121.231.238:4022/udp/239.21.1.141:5002
+#EXTINF:-1 group-title="山东台",山东农村科普频道
+http://113.121.231.238:4022/udp/239.21.1.183:5002
+#EXTINF:-1 group-title="山东台",山东新闻频道
+http://113.121.231.238:4022/udp/239.21.1.140:5002
+#EXTINF:-1 group-title="山东台",山东少儿频道
+http://113.121.231.238:4022/udp/239.21.1.208:5002
 
 
 #EXTINF:-1 group-title="河南台",都市频道
+http://115.57.81.15:8181/rtp/225.1.4.52:1081
 #EXTINF:-1 group-title="河南台",民生频道
+http://115.57.81.15:8181/rtp/225.1.4.53:1082
 #EXTINF:-1 group-title="河南台",法治频道
+http://115.57.81.15:8181/rtp/225.1.4.54:1083
 #EXTINF:-1 group-title="河南台",电视剧频道
+http://115.57.81.15:8181/rtp/225.1.4.55:1084
 #EXTINF:-1 group-title="河南台",新闻频道
+http://115.57.81.15:8181/rtp/225.1.4.56:1085
 #EXTINF:-1 group-title="河南台",公共频道
+http://115.57.81.15:8181/rtp/225.1.4.58:1087
 #EXTINF:-1 group-title="河南台",乡村频道
+http://115.57.81.15:8181/rtp/225.1.4.120:1149
 #EXTINF:-1 group-title="河南台",国际频道
-#EXTINF:-1 group-title="河南台",都市频道
-#EXTINF:-1 group-title="河南台",都市频道
+http://115.57.81.15:8181/rtp/225.1.4.102:1131
+#EXTINF:-1 group-title="河南台",文物宝库
+http://115.57.81.15:8181/rtp/225.1.4.100:1129
+#EXTINF:-1 group-title="河南台",梨园频道
+http://115.57.81.15:8181/rtp/225.1.4.99:1128
+#EXTINF:-1 group-title="河南台",武术世界
+http://115.57.81.15:8181/rtp/225.1.4.101:1130
+#EXTINF:-1 group-title="河南台",国学频道
+http://115.57.81.15:8181/rtp/225.1.4.196:1311
 
-#EXTINF:-1 group-title="湖北台",都市频道
-#EXTINF:-1 group-title="湖北台",都市频道
-#EXTINF:-1 group-title="湖北台",都市频道
-#EXTINF:-1 group-title="湖北台",都市频道
-#EXTINF:-1 group-title="湖北台",都市频道
-#EXTINF:-1 group-title="湖北台",都市频道
-#EXTINF:-1 group-title="湖北台",都市频道
-#EXTINF:-1 group-title="湖北台",都市频道
-#EXTINF:-1 group-title="湖北台",都市频道
-#EXTINF:-1 group-title="湖北台",都市频道
+#EXTINF:-1 group-title="湖北台",综合频道
+http://27.19.56.152:8001/rtp/239.69.1.42:9892
+#EXTINF:-1 group-title="湖北台",经济频道
+http://27.19.56.152:8001/rtp/239.69.1.41:9886
+#EXTINF:-1 group-title="湖北台",影视频道
+http://27.19.56.152:8001/rtp/239.69.1.204:10866
+#EXTINF:-1 group-title="湖北台",生活频道
+http://27.19.56.152:8001/rtp/239.69.1.205:10872
+#EXTINF:-1 group-title="湖北台",教育频道
+http://27.19.56.152:8001/rtp/239.69.1.206:10878
+#EXTINF:-1 group-title="湖北台",公共·新闻频道
+http://27.19.56.152:8001/rtp/239.69.1.40:9880
+#EXTINF:-1 group-title="湖北台",垄上频道
+http://27.19.56.152:8001/rtp/239.69.1.43:9898
 
-#EXTINF:-1 group-title="湖南",金鹰卡通
-http://58.41.4.194:8001/udp/239.45.3.118:5140
-#EXTINF:-1 group-title="湖南",金鹰纪实
+
+#EXTINF:-1 group-title="湖南台",经视频道
+http://222.241.145.204:8888/udp/239.76.245.117:1234
+#EXTINF:-1 group-title="湖南台",都市频道
+http://222.241.145.204:8888/udp/239.76.245.117:1234
+#EXTINF:-1 group-title="湖南台",金鹰纪实
+http://222.241.145.204:8888/udp/239.76.252.122:9000
+#EXTINF:-1 group-title="湖南台",娱乐频道
+http://222.241.145.204:8888/udp/239.76.252.121:9000
+#EXTINF:-1 group-title="湖南台",电视剧频道
+http://222.241.145.204:8888/udp/239.76.245.118:1234
+#EXTINF:-1 group-title="湖南台",老年频道
+http://222.241.145.204:8888/udp/239.76.245.123:1234
+#EXTINF:-1 group-title="湖南台",电影频道
+http://222.241.145.204:8888/udp/239.76.245.119:1234
+#EXTINF:-1 group-title="湖南台",金鹰卡通
+http://222.241.145.204:8888/udp/239.76.253.107:9000
+#EXTINF:-1 group-title="湖南台",金鹰纪实
 http://58.41.4.194:8001/udp/239.45.1.45:5140
+#EXTINF:-1 group-title="湖南台",湖南国际频道
+http://222.241.145.204:8888/udp/239.76.245.124:1234
 
 #EXTINF:-1 group-title="广东",嘉佳卡通
 http://58.41.4.194:8001/udp/239.45.1.48:5140
@@ -617,6 +680,8 @@ http://183.221.31.230:4088//udp/239.11.0.145:5140
 #EXTINF:-1 group-title="NewTV",未知
 http://183.221.31.230:4088//udp/239.11.0.147:5140
 
+#EXTINF:-1 group-title="NewTV",求索记录
+http://59.55.191.2:8888/udp/239.252.220.224:5140
 
 
 #EXTINF:-1 group-title="测试",测试
