@@ -114,8 +114,7 @@ http://58.41.4.194:8001/udp/239.45.1.122:5140
 http://58.41.4.194:8001/udp/239.45.1.123:5140
 #EXTINF:-1 group-title="卫视",天津卫视
 http://58.41.4.194:8001/udp/239.45.1.124:5140
-#EXTINF:-1 group-title="卫视",贵州卫视
-http://58.41.4.194:8001/udp/239.45.1.80:5140
+
 #EXTINF:-1 group-title="卫视",河北卫视
 http://58.41.4.194:8001/udp/239.45.1.44:5140
 #EXTINF:-1 group-title="卫视",重庆卫视
@@ -149,8 +148,7 @@ http://58.41.4.194:8001/udp/239.45.1.238:5140
 http://58.41.4.194:8001/udp/239.45.1.116:5140
 #EXTINF:-1 group-title="卫视",兵团卫视
 http://58.41.4.194:8001/udp/239.45.1.117:5140
-#EXTINF:-1 group-title="卫视",康巴卫视
-http://58.41.4.194:8001/udp/239.45.1.251:5140
+
 
 #EXTINF:-1 group-title="北京台",北京卫视
 http://1.203.184.77:4000/udp/225.1.8.21:8002
@@ -475,133 +473,126 @@ http://58.41.4.194:8001/udp/239.45.1.45:5140
 #EXTINF:-1 group-title="湖南台",湖南国际频道
 http://222.241.145.204:8888/udp/239.76.245.124:1234
 
-#EXTINF:-1 group-title="广东",嘉佳卡通
-http://58.41.4.194:8001/udp/239.45.1.48:5140
+#EXTINF:-1 group-title="广东台",珠江频道
+http://183.31.9.236:9001/udp/239.77.0.114:5146
+#EXTINF:-1 group-title="广东台",民生频道
+http://183.31.9.236:9001/udp/239.77.0.225:5146
+#EXTINF:-1 group-title="广东台",体育频道
+http://183.31.9.236:9001/udp/239.77.0.168:5146
+#EXTINF:-1 group-title="广东台",嘉佳卡通
+http://183.31.9.236:9001/udp/239.77.0.179:5146
+#EXTINF:-1 group-title="广东台",新闻频道
+http://183.31.9.236:9001/udp/239.77.0.173:5146
+#EXTINF:-1 group-title="广东台",经济科教频道
+http://183.31.9.236:9001/udp/239.77.0.167:5146
+#EXTINF:-1 group-title="广东台",大湾区卫视
+http://183.31.9.236:9001/udp/239.77.0.215:5146
+#EXTINF:-1 group-title="广东台",4K超高清频道
+http://183.31.9.236:9001/udp/239.77.1.237:5146
+#EXTINF:-1 group-title="广东台",影视频道
+http://183.31.9.236:9001/udp/239.77.0.217:5146
+#EXTINF:-1 group-title="广东台",少儿频道
+http://183.31.9.236:9001/udp/239.77.0.250:5146
 
+#EXTINF:-1 group-title="广西台",综艺旅游频道
+http://171.109.211.36:8888/udp/239.81.0.214:4056
 #EXTINF:-1 group-title="广西台",都市频道
-#EXTINF:-1 group-title="广西台",都市频道
-#EXTINF:-1 group-title="广西台",都市频道
-#EXTINF:-1 group-title="广西台",都市频道
-#EXTINF:-1 group-title="广西台",都市频道
-#EXTINF:-1 group-title="广西台",都市频道
-#EXTINF:-1 group-title="广西台",都市频道
-#EXTINF:-1 group-title="广西台",都市频道
-#EXTINF:-1 group-title="广西台",都市频道
-#EXTINF:-1 group-title="广西台",都市频道
-#EXTINF:-1 group-title="广西台",都市频道
-#EXTINF:-1 group-title="广西台",都市频道
+http://171.109.211.36:8888/udp/239.81.0.247:4056
+#EXTINF:-1 group-title="广西台",影视频道
+http://171.109.211.36:8888/udp/239.81.0.250:4056
+#EXTINF:-1 group-title="广西台",新闻频道
+http://171.109.211.36:8888/udp/239.81.0.248:4056
 
-#EXTINF:-1 group-title="海南台",都市频道
-#EXTINF:-1 group-title="海南台",都市频道
-#EXTINF:-1 group-title="海南台",都市频道
-#EXTINF:-1 group-title="海南台",都市频道
-#EXTINF:-1 group-title="海南台",都市频道
-#EXTINF:-1 group-title="海南台",都市频道
-#EXTINF:-1 group-title="海南台",都市频道
-#EXTINF:-1 group-title="海南台",都市频道
-#EXTINF:-1 group-title="海南台",都市频道
-#EXTINF:-1 group-title="海南台",都市频道
-#EXTINF:-1 group-title="海南台",都市频道
+#EXTINF:-1 group-title="海南台",自贸频道
+http://112.66.196.56:9999/rtp/239.253.64.119:5140
+#EXTINF:-1 group-title="海南台",公共频道
+http://112.66.196.56:9999/rtp/239.253.64.14:5140
+#EXTINF:-1 group-title="海南台",文旅频道
+http://112.66.196.56:9999/rtp/239.253.64.122:5140
+#EXTINF:-1 group-title="海南台",少儿频道
+http://112.66.196.56:9999/rtp/239.253.64.124:5140
+#EXTINF:-1 group-title="海南台",新闻频道
+http://112.66.196.56:9999/rtp/239.253.64.121:5140
 
-#EXTINF:-1 group-title="重庆台",都市频道
-#EXTINF:-1 group-title="重庆台",都市频道
-#EXTINF:-1 group-title="重庆台",都市频道
-#EXTINF:-1 group-title="重庆台",都市频道
-#EXTINF:-1 group-title="重庆台",都市频道
-#EXTINF:-1 group-title="重庆台",都市频道
-#EXTINF:-1 group-title="重庆台",都市频道
-#EXTINF:-1 group-title="重庆台",都市频道
-#EXTINF:-1 group-title="重庆台",都市频道
-#EXTINF:-1 group-title="重庆台",都市频道
+#EXTINF:-1 group-title="重庆台",新闻频道
+http://113.248.183.76:8888/rtp/235.254.196.208:1104
+#EXTINF:-1 group-title="重庆台",影视频道
+http://113.248.183.76:8888/rtp/235.254.198.180:7980
+#EXTINF:-1 group-title="重庆台",科教频道
+http://113.248.183.76:8888/rtp/235.254.196.215:1132
+#EXTINF:-1 group-title="重庆台",社会与法频道
+http://113.248.183.76:8888/rtp/235.254.198.181:7980
+#EXTINF:-1 group-title="重庆台",文体娱乐频道
+http://113.248.183.76:8888/rtp/235.254.198.187:7980
+#EXTINF:-1 group-title="重庆台",时尚生活频道
+http://113.248.183.76:8888/rtp/235.254.198.182:7980
+#EXTINF:-1 group-title="重庆台",新农村频道
+http://113.248.183.76:8888/rtp/235.254.198.186:7980
+#EXTINF:-1 group-title="重庆台",少儿频道
+http://113.248.183.76:8888/rtp/235.254.196.214:1128
 
-#EXTINF:-1 group-title="四川台",都市频道
-#EXTINF:-1 group-title="四川台",都市频道
-#EXTINF:-1 group-title="四川台",都市频道
-#EXTINF:-1 group-title="四川台",都市频道
-#EXTINF:-1 group-title="四川台",都市频道
-#EXTINF:-1 group-title="四川台",都市频道
-#EXTINF:-1 group-title="四川台",都市频道
-#EXTINF:-1 group-title="四川台",都市频道
-#EXTINF:-1 group-title="四川台",都市频道
-#EXTINF:-1 group-title="四川台",都市频道
+#EXTINF:-1 group-title="四川台",文化旅游频道
+http://110.191.203.223:8888/udp/239.93.1.101:5140
+#EXTINF:-1 group-title="四川台",经济频道
+http://110.191.203.223:8888/udp/239.93.1.102:5140
+#EXTINF:-1 group-title="四川台",新闻频道
+http://110.191.203.223:8888/udp/239.93.0.47:5140
+#EXTINF:-1 group-title="四川台",影视文艺频道
+http://110.191.203.223:8888/udp/239.93.0.166:5140
+#EXTINF:-1 group-title="四川台",妇女儿童频道
+http://110.191.203.223:8888/udp/239.93.0.219:5140
+#EXTINF:-1 group-title="四川台",科技教育频道
+http://110.191.203.223:8888/udp/239.93.42.44:5140
+#EXTINF:-1 group-title="四川台",四川乡村频道
+http://110.191.203.223:8888/udp/239.93.0.52:5140
+#EXTINF:-1 group-title="四川台",峨嵋电影频道
+http://110.191.203.223:8888/udp/239.93.1.54:5140
+#EXTINF:-1 group-title="四川台",康巴卫视
+http://110.191.203.223:8888/udp/239.93.0.41:5140
 
-
+#EXTINF:-1 group-title="贵州台",贵州卫视
+http://58.41.4.194:8001/udp/239.45.1.80:5140
+#EXTINF:-1 group-title="贵州台",公共频道
+#EXTINF:-1 group-title="贵州台",影视文艺频道
+#EXTINF:-1 group-title="贵州台",大众生活频道
+#EXTINF:-1 group-title="贵州台",生态·乡村频道
+#EXTINF:-1 group-title="贵州台",科教健康频道
+#EXTINF:-1 group-title="贵州台",经济频道
+#EXTINF:-1 group-title="贵州台",天元围棋
 #EXTINF:-1 group-title="贵州台",天元围棋
 http://27.184.19.54:4022/rtp/239.254.201.156:6270
 
 #EXTINF:-1 group-title="云南台",都市频道
-#EXTINF:-1 group-title="云南台",都市频道
-#EXTINF:-1 group-title="云南台",都市频道
-#EXTINF:-1 group-title="云南台",都市频道
-#EXTINF:-1 group-title="云南台",都市频道
-#EXTINF:-1 group-title="云南台",都市频道
-#EXTINF:-1 group-title="云南台",都市频道
-#EXTINF:-1 group-title="云南台",都市频道
-#EXTINF:-1 group-title="云南台",都市频道
-#EXTINF:-1 group-title="云南台",都市频道
-#EXTINF:-1 group-title="云南台",都市频道
+#EXTINF:-1 group-title="云南台",娱乐频道
+#EXTINF:-1 group-title="云南台",影视频道
+#EXTINF:-1 group-title="云南台",康旅频道
+#EXTINF:-1 group-title="云南台",少儿频道
 
-#EXTINF:-1 group-title="西藏台",都市频道
-#EXTINF:-1 group-title="西藏台",都市频道
-#EXTINF:-1 group-title="西藏台",都市频道
-#EXTINF:-1 group-title="西藏台",都市频道
-#EXTINF:-1 group-title="西藏台",都市频道
-#EXTINF:-1 group-title="西藏台",都市频道
-#EXTINF:-1 group-title="西藏台",都市频道
-#EXTINF:-1 group-title="西藏台",都市频道
-#EXTINF:-1 group-title="西藏台",都市频道
-#EXTINF:-1 group-title="西藏台",都市频道
-#EXTINF:-1 group-title="西藏台",都市频道
-#EXTINF:-1 group-title="西藏台",都市频道
+#EXTINF:-1 group-title="西藏台",影视文化频道
 
-#EXTINF:-1 group-title="陕西台",都市频道
-#EXTINF:-1 group-title="陕西台",都市频道
-#EXTINF:-1 group-title="陕西台",都市频道
-#EXTINF:-1 group-title="陕西台",都市频道
-#EXTINF:-1 group-title="陕西台",都市频道
-#EXTINF:-1 group-title="陕西台",都市频道
-#EXTINF:-1 group-title="陕西台",都市频道
-#EXTINF:-1 group-title="陕西台",都市频道
-#EXTINF:-1 group-title="陕西台",都市频道
-#EXTINF:-1 group-title="陕西台",都市频道
+#EXTINF:-1 group-title="陕西台",新闻资讯频道
+#EXTINF:-1 group-title="陕西台",都市青春频道
+#EXTINF:-1 group-title="陕西台",生活频道
+#EXTINF:-1 group-title="陕西台",影视频道
+#EXTINF:-1 group-title="陕西台",公共频道
+#EXTINF:-1 group-title="陕西台",体育休闲频道
+#EXTINF:-1 group-title="陕西台",西部电影频道
+#EXTINF:-1 group-title="陕西台",农林科技频道
 
+#EXTINF:-1 group-title="甘肃台",经济频道
+#EXTINF:-1 group-title="甘肃台",公共应急频道
 #EXTINF:-1 group-title="甘肃台",都市频道
-#EXTINF:-1 group-title="甘肃台",都市频道
-#EXTINF:-1 group-title="甘肃台",都市频道
-#EXTINF:-1 group-title="甘肃台",都市频道
-#EXTINF:-1 group-title="甘肃台",都市频道
-#EXTINF:-1 group-title="甘肃台",都市频道
-#EXTINF:-1 group-title="甘肃台",都市频道
-#EXTINF:-1 group-title="甘肃台",都市频道
-#EXTINF:-1 group-title="甘肃台",都市频道
-#EXTINF:-1 group-title="甘肃台",都市频道
+#EXTINF:-1 group-title="甘肃台",文化影视频道
+#EXTINF:-1 group-title="甘肃台",少儿频道
 
-#EXTINF:-1 group-title="青海台",都市频道
-#EXTINF:-1 group-title="青海台",都市频道
-#EXTINF:-1 group-title="青海台",都市频道
-#EXTINF:-1 group-title="青海台",都市频道
-#EXTINF:-1 group-title="青海台",都市频道
-#EXTINF:-1 group-title="青海台",都市频道
-#EXTINF:-1 group-title="青海台",都市频道
-#EXTINF:-1 group-title="青海台",都市频道
-#EXTINF:-1 group-title="青海台",都市频道
-#EXTINF:-1 group-title="青海台",都市频道
+#EXTINF:-1 group-title="青海台",经济生活频道
+#EXTINF:-1 group-title="青海台",安多藏语综合频道
 #EXTINF:-1 group-title="青海台",都市频道
 
-#EXTINF:-1 group-title="宁夏台",都市频道
-#EXTINF:-1 group-title="宁夏台",都市频道
-#EXTINF:-1 group-title="宁夏台",都市频道
-#EXTINF:-1 group-title="宁夏台",都市频道
-#EXTINF:-1 group-title="宁夏台",都市频道
-#EXTINF:-1 group-title="宁夏台",都市频道
-#EXTINF:-1 group-title="宁夏台",都市频道
-#EXTINF:-1 group-title="宁夏台",都市频道
-#EXTINF:-1 group-title="宁夏台",都市频道
-#EXTINF:-1 group-title="宁夏台",都市频道
-
-#EXTINF:-1 group-title="兵团台",都市频道
-#EXTINF:-1 group-title="兵团台",都市频道
-#EXTINF:-1 group-title="兵团台",都市频道
+#EXTINF:-1 group-title="宁夏台",经济频道
+#EXTINF:-1 group-title="宁夏台",文旅频道
+#EXTINF:-1 group-title="宁夏台",公共频道
+#EXTINF:-1 group-title="宁夏台",少儿频道
 
 #EXTINF:-1 group-title="新疆台",都市频道
 #EXTINF:-1 group-title="新疆台",都市频道
