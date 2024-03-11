@@ -2,94 +2,139 @@
 #EXT-X-APP APTV
 #EXT-X-APTV-TYPE remote
 #EXT-X-SUB-URL https://raw.githubusercontent.com/zeyujay/channel/main/%E8%87%AA%E5%BB%BA%E7%94%B5%E8%A7%86.m3u
-
+#主频道hbdx
 #EXTINF:-1 group-title="CCTV",CCTV1
-http://1.203.184.77:4000/udp/225.1.8.1:8008
+http://106.113.144.209:2222/rtp/239.254.200.45:8008
 #EXTINF:-1 group-title="CCTV",CCTV2
-http://1.203.184.77:4000/udp/225.1.8.2:8084
+http://106.113.144.209:2222/rtp/239.254.200.158:6000
 #EXTINF:-1 group-title="CCTV",CCTV3
-http://1.203.184.77:4000/udp/225.1.8.88:8000
+http://106.113.144.209:2222/rtp/239.254.200.13:6000
 #EXTINF:-1 group-title="CCTV",CCTV4
-http://1.203.184.77:4000/udp/225.1.8.4:8092
+http://106.113.144.209:2222/rtp/239.254.200.190:6307
 #EXTINF:-1 group-title="CCTV",CCTV5
-http://1.203.184.77:4000/udp/225.1.8.89:8000
+http://106.113.144.209:2222/rtp/239.254.200.14:6000
 #EXTINF:-1 group-title="CCTV",CCTV5+
-http://1.203.184.77:4000/udp/225.1.8.20:8004
+http://106.113.144.209:2222/rtp/239.254.200.46:8004
 #EXTINF:-1 group-title="CCTV",CCTV6
-http://1.203.184.77:4000/udp/225.1.8.84:8000
+http://106.113.144.209:2222/rtp/239.254.200.15:6000
 #EXTINF:-1 group-title="CCTV",CCTV7
-http://1.203.184.77:4000/udp/225.1.8.7:8104
+http://106.113.144.209:2222/rtp/239.254.200.159:6000
 #EXTINF:-1 group-title="CCTV",CCTV8
-http://1.203.184.77:4000/udp/225.1.8.85:8000
+http://106.113.144.209:2222/rtp/239.254.200.16:6000
 #EXTINF:-1 group-title="CCTV",CCTV9
-http://1.203.184.77:4000/udp/225.1.8.9:8112
+http://106.113.144.209:2222/rtp/239.254.200.59:8112
 #EXTINF:-1 group-title="CCTV",CCTV10
-http://1.203.184.77:4000/udp/225.1.8.10:8116
+http://106.113.144.209:2222/rtp/239.254.200.160:6000
 #EXTINF:-1 group-title="CCTV",CCTV11
-http://1.203.184.77:4000/udp/225.1.8.73:8120
+http://106.113.144.209:2222/rtp/239.254.201.123:8120
 #EXTINF:-1 group-title="CCTV",CCTV12
-http://1.203.184.77:4000/udp/225.1.8.12:8124
+http://106.113.144.209:2222/rtp/239.254.200.161:6000
 #EXTINF:-1 group-title="CCTV",CCTV13
-http://1.203.184.77:4000/udp/225.1.8.168:8130
+http://106.113.144.209:2222/rtp/239.254.200.9:8264
 #EXTINF:-1 group-title="CCTV",CCTV14
-http://1.203.184.77:4000/udp/225.1.8.14:8132
+http://106.113.144.209:2222/rtp/239.254.200.162:6000
 #EXTINF:-1 group-title="CCTV",CCTV15
-http://1.203.184.77:4000/udp/225.1.8.74:8136
+http://106.113.144.209:2222/rtp/239.254.201.124:8136
 #EXTINF:-1 group-title="CCTV",CCTV16
 http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8?
 #EXTINF:-1 group-title="CCTV",CCTV17
-http://1.203.184.77:4000/udp/225.1.8.17:8144
-#EXTINF:-1 group-title="CCTV",第一剧场
-http://113.24.136.82:8082/udp/239.1.1.94:8094
-#EXTINF:-1 group-title="CCTV",风云剧场
-http://113.24.136.82:8082/udp/239.1.1.93:8093
-#EXTINF:-1 group-title="CCTV",怀旧剧场
-http://113.24.136.82:8082/udp/239.1.1.95:8095
-#EXTINF:-1 group-title="CCTV",风云音乐
-http://113.24.136.82:8082/udp/239.1.1.96:8096
-#EXTINF:-1 group-title="CCTV",风云足球
-http://113.24.136.82:8082/udp/239.1.1.101:8101
-#EXTINF:-1 group-title="CCTV",兵器科技
-http://113.24.136.82:8082/udp/239.1.1.97:8097
-#EXTINF:-1 group-title="CCTV",世界地理
-http://113.24.136.82:8082/udp/239.1.1.99:8099
-#EXTINF:-1 group-title="CCTV",女性时尚
-http://113.24.136.82:8082/udp/239.1.1.89:8089
-#EXTINF:-1 group-title="CCTV",高尔夫·网球
-http://113.24.136.82:8082/udp/239.1.1.102:8102
-#EXTINF:-1 group-title="CCTV",文化精品
-http://113.24.136.82:8082/udp/239.1.1.91:8091
-#EXTINF:-1 group-title="CCTV",央视台球
-http://113.24.136.82:8082/udp/239.1.1.100:8100
-#EXTINF:-1 group-title="CWTV",中国天气
-http://222.71.11.180:4022/udp/239.45.1.47:5140
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="CGTN",CGTN
-http://183.221.31.230:4088//udp/239.11.0.245:5140
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CGTN记录.png" group-title="CGTN",CGTN记录
-https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CGTN俄语.png" group-title="CGTN",CGTN俄语
-https://liveru.cgtn.com/1000r/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CGTN法语.png" group-title="CGTN",CGTN法语
-https://news.cgtn.com/resource/live/french/cgtn-f.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CGTN西语.png" group-title="CGTN",CGTN西语
-https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CGTN阿语.png" group-title="CGTN",CGTN阿语
-http://livear.cgtn.com/1000a/prog_index.m3u8
-#EXTINF:-1 group-title="CETV",CETV-1
-http://183.221.31.230:4088//udp/239.11.0.139:5140
-#EXTINF:-1 group-title="CETV",CETV-2
-http://183.221.31.230:4088//udp/239.11.0.246:5140
-#EXTINF:-1 group-title="CETV",CETV-3
-http://183.221.31.230:4088//udp/239.11.0.247:5140
-#EXTINF:-1 group-title="CETV",CETV-4
-http://183.221.31.230:4088//udp/239.11.0.248:5140
+http://106.113.144.209:2222/rtp/239.254.201.120:8144
 
-#EXTINF:-1 group-title="CHC",CHC动作电影
+#EXTINF:-1 group-title="CCTV",第一剧场
+http://106.113.144.209:2222/rtp/239.254.201.218:7258
+#EXTINF:-1 group-title="CCTV",风云剧场
+http://106.113.144.209:2222/rtp/239.254.201.219:7257
+#EXTINF:-1 group-title="CCTV",怀旧剧场
+http://106.113.144.209:2222/rtp/239.254.201.220:7256
+#EXTINF:-1 group-title="CCTV",风云音乐
+http://106.113.144.209:2222/rtp/239.254.201.221:7259
+#EXTINF:-1 group-title="CCTV",风云足球
+http://106.113.144.209:2222/rtp/239.254.201.222:7251
+#EXTINF:-1 group-title="CCTV",兵器科技
+http://106.113.144.209:2222/rtp/239.254.201.225:7249
+#EXTINF:-1 group-title="CCTV",世界地理
+http://106.113.144.209:2222/rtp/239.254.201.226:7254
+#EXTINF:-1 group-title="CCTV",女性时尚
+http://106.113.144.209:2222/rtp/239.254.201.228:7255
+#EXTINF:-1 group-title="CCTV",高尔夫·网球
+http://106.113.144.209:2222/rtp/239.254.201.223:7252
+#EXTINF:-1 group-title="CCTV",文化精品
+http://106.113.144.209:2222/rtp/239.254.201.229:7260
+#EXTINF:-1 group-title="CCTV",央视台球
+http://106.113.144.209:2222/rtp/239.254.201.171:7176
+
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="CCTV",CGTN
+http://106.113.144.209:2222/rtp/239.254.200.12:8056
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CGTN记录.png" group-title="CCTV",CGTN记录
+http://106.113.144.209:2222/rtp/239.254.201.208:4220
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CGTN俄语.png" group-title="CCTV",CGTN俄语
+http://106.113.144.209:2222/rtp/239.254.201.212:4220
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CGTN法语.png" group-title="CCTV",CGTN法语
+http://106.113.144.209:2222/rtp/239.254.201.210:4220
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CGTN西语.png" group-title="CCTV",CGTN西语
+http://106.113.144.209:2222/rtp/239.254.201.209:4220
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CGTN阿语.png" group-title="CCTV",CGTN阿语
+http://106.113.144.209:2222/rtp/239.254.201.211:4220
+
+#EXTINF:-1 group-title="CCTV",CETV-1
+http://106.113.144.209:2222/rtp/239.254.200.225:6259
+#EXTINF:-1 group-title="CCTV",CETV-2
+http://106.113.144.209:2222/rtp/239.254.200.226:6260
+#EXTINF:-1 group-title="CCTV",CETV-4
+http://106.113.144.209:2222/rtp/239.254.200.227:6261
+
+#EXTINF:-1 group-title="CCTV",CHC动作电影
 http://124.234.240.160:58888/rtp/239.37.0.186:5540
-#EXTINF:-1 group-title="CHC",CHC家庭影院
+#EXTINF:-1 group-title="CCTV",CHC家庭影院
 http://124.234.240.160:58888/rtp/239.37.0.188:5540
-#EXTINF:-1 group-title="CHC",CHC高清电影
+#EXTINF:-1 group-title="CCTV",CHC高清电影
 http://124.234.240.160:58888/rtp/239.37.0.187:5540
+
+#EXTINF:-1 group-title="卫视",北京卫视
+#EXTINF:-1 group-title="卫视",北京卫视
+#EXTINF:-1 group-title="卫视",北京卫视
+#EXTINF:-1 group-title="卫视",北京卫视
+#EXTINF:-1 group-title="卫视",北京卫视
+#EXTINF:-1 group-title="卫视",北京卫视
+#EXTINF:-1 group-title="卫视",北京卫视
+#EXTINF:-1 group-title="卫视",北京卫视
+#EXTINF:-1 group-title="卫视",北京卫视
+#EXTINF:-1 group-title="卫视",北京卫视
+#EXTINF:-1 group-title="卫视",北京卫视
+#EXTINF:-1 group-title="卫视",北京卫视
+#EXTINF:-1 group-title="卫视",北京卫视
+#EXTINF:-1 group-title="卫视",北京卫视
+#EXTINF:-1 group-title="卫视",北京卫视
+#EXTINF:-1 group-title="卫视",北京卫视
+#EXTINF:-1 group-title="卫视",北京卫视
+#EXTINF:-1 group-title="卫视",北京卫视
+#EXTINF:-1 group-title="卫视",北京卫视
+#EXTINF:-1 group-title="卫视",北京卫视
+#EXTINF:-1 group-title="卫视",北京卫视
+#EXTINF:-1 group-title="卫视",北京卫视
+#EXTINF:-1 group-title="卫视",北京卫视
+#EXTINF:-1 group-title="卫视",北京卫视
+#EXTINF:-1 group-title="卫视",北京卫视
+#EXTINF:-1 group-title="卫视",北京卫视
+#EXTINF:-1 group-title="卫视",北京卫视
+#EXTINF:-1 group-title="卫视",北京卫视
+#EXTINF:-1 group-title="卫视",北京卫视
+#EXTINF:-1 group-title="卫视",北京卫视
+#EXTINF:-1 group-title="卫视",北京卫视
+#EXTINF:-1 group-title="卫视",北京卫视
+#EXTINF:-1 group-title="卫视",北京卫视
+#EXTINF:-1 group-title="卫视",北京卫视
+#EXTINF:-1 group-title="卫视",北京卫视
+#EXTINF:-1 group-title="卫视",北京卫视
+#EXTINF:-1 group-title="卫视",北京卫视
+#EXTINF:-1 group-title="卫视",北京卫视
+#EXTINF:-1 group-title="卫视",北京卫视
+#EXTINF:-1 group-title="卫视",北京卫视
+#EXTINF:-1 group-title="卫视",北京卫视
+#EXTINF:-1 group-title="卫视",北京卫视
+#EXTINF:-1 group-title="卫视",北京卫视
+#EXTINF:-1 group-title="卫视",北京卫视
+#EXTINF:-1 group-title="卫视",北京卫视
 
 #EXTINF:-1 group-title="北京台",北京卫视
 http://1.203.184.77:4000/udp/225.1.8.21:8002
@@ -414,6 +459,7 @@ http://221.232.105.110:8880/rtp/239.69.1.40:9880
 http://221.232.105.110:8880/rtp/239.69.1.43:9898
 
 
+/** 卡*/
 #EXTINF:-1 group-title="湖南台",湖南卫视
 http://222.241.145.143:8888/udp/239.76.246.101:1234
 #EXTINF:-1 group-title="湖南台",经视频道
@@ -437,6 +483,7 @@ http://222.71.11.180:4022/udp/239.45.1.45:5140
 #EXTINF:-1 group-title="湖南台",湖南国际频道
 http://222.241.145.143:8888/udp/239.76.245.124:1234
 
+/** 卡*/
 #EXTINF:-1 group-title="广东台",广东卫视
 http://14.126.29.160:7777/udp/239.77.0.166:5146
 #EXTINF:-1 group-title="广东台",珠江频道
@@ -460,64 +507,64 @@ http://14.126.29.160:7777/udp/239.77.0.217:5146
 #EXTINF:-1 group-title="广东台",少儿频道
 http://14.126.29.160:7777/udp/239.77.0.250:5146
 
+#EXTINF:-1 group-title="广西台",广西卫视
+http://110.72.74.176:808/hls/9/index.m3u8
 #EXTINF:-1 group-title="广西台",综艺旅游频道
-http://171.109.211.36:8888/udp/239.81.0.214:4056
+http://110.72.74.176:808/hls/334/index.m3u8
 #EXTINF:-1 group-title="广西台",都市频道
-http://171.109.211.36:8888/udp/239.81.0.247:4056
+http://110.72.74.176:808/hls/204/index.m3u8
 #EXTINF:-1 group-title="广西台",影视频道
-http://171.109.211.36:8888/udp/239.81.0.250:4056
+http://110.72.74.176:808/hls/201/index.m3u8
 #EXTINF:-1 group-title="广西台",新闻频道
-http://171.109.211.36:8888/udp/239.81.0.248:4056
+http://110.72.74.176:808/hls/206/index.m3u8
 
-#EXTINF:-1 group-title="海南台",自贸频道
-http://112.66.196.56:9999/rtp/239.253.64.119:5140
+#EXTINF:-1 group-title="海南台" group-title="地方台",自贸频道
+http://220.174.46.208:8888/rtp/239.253.64.119:5140
 #EXTINF:-1 group-title="海南台",公共频道
-http://112.66.196.56:9999/rtp/239.253.64.14:5140
+http://220.174.46.208:8888/rtp/239.253.64.14:5140
 #EXTINF:-1 group-title="海南台",文旅频道
-http://112.66.196.56:9999/rtp/239.253.64.122:5140
+http://220.174.46.208:8888/rtp/239.253.64.122:5140
 #EXTINF:-1 group-title="海南台",少儿频道
-http://112.66.196.56:9999/rtp/239.253.64.124:5140
+http://220.174.46.208:8888/rtp/239.253.64.124:5140
 #EXTINF:-1 group-title="海南台",新闻频道
-http://112.66.196.56:9999/rtp/239.253.64.121:5140
+http://220.174.46.208:8888/rtp/239.253.64.121:5140
 
 #EXTINF:-1 group-title="重庆台",新闻频道
-http://113.248.183.76:8888/rtp/235.254.196.208:1104
+http://125.82.171.210:8888/rtp/235.254.196.208:1104
 #EXTINF:-1 group-title="重庆台",影视频道
-http://113.248.183.76:8888/rtp/235.254.198.180:7980
+http://125.82.171.210:8888/rtp/235.254.198.180:7980
 #EXTINF:-1 group-title="重庆台",科教频道
-http://113.248.183.76:8888/rtp/235.254.196.215:1132
+http://125.82.171.210:8888/rtp/235.254.196.215:1132
 #EXTINF:-1 group-title="重庆台",社会与法频道
-http://113.248.183.76:8888/rtp/235.254.198.181:7980
+http://125.82.171.210:8888/rtp/235.254.198.181:7980
 #EXTINF:-1 group-title="重庆台",文体娱乐频道
-http://113.248.183.76:8888/rtp/235.254.198.187:7980
+http://125.82.171.210:8888/rtp/235.254.198.187:7980
 #EXTINF:-1 group-title="重庆台",时尚生活频道
-http://113.248.183.76:8888/rtp/235.254.198.182:7980
+http://125.82.171.210:8888/rtp/235.254.198.182:7980
 #EXTINF:-1 group-title="重庆台",新农村频道
-http://113.248.183.76:8888/rtp/235.254.198.186:7980
+http://125.82.171.210:8888/rtp/235.254.198.186:7980
 #EXTINF:-1 group-title="重庆台",少儿频道
-http://113.248.183.76:8888/rtp/235.254.196.214:1128
+http://125.82.171.210:8888/rtp/235.254.196.214:1128
 
 #EXTINF:-1 group-title="四川台",文化旅游频道
-http://110.191.203.223:8888/udp/239.93.1.101:5140
+http://171.213.36.107:8888/udp/239.93.1.101:5140
 #EXTINF:-1 group-title="四川台",经济频道
-http://110.191.203.223:8888/udp/239.93.1.102:5140
+http://171.213.36.107:8888/udp/239.93.1.102:5140
 #EXTINF:-1 group-title="四川台",新闻频道
-http://110.191.203.223:8888/udp/239.93.0.47:5140
+http://171.213.36.107:8888/udp/239.93.0.47:5140
 #EXTINF:-1 group-title="四川台",影视文艺频道
-http://110.191.203.223:8888/udp/239.93.0.166:5140
+http://171.213.36.107:8888/udp/239.93.0.166:5140
 #EXTINF:-1 group-title="四川台",妇女儿童频道
-http://110.191.203.223:8888/udp/239.93.0.219:5140
+http://171.213.36.107:8888/udp/239.93.0.219:5140
 #EXTINF:-1 group-title="四川台",科技教育频道
-http://110.191.203.223:8888/udp/239.93.42.44:5140
+http://171.213.36.107:8888/udp/239.93.42.44:5140
 #EXTINF:-1 group-title="四川台",四川乡村频道
-http://110.191.203.223:8888/udp/239.93.0.52:5140
+http://171.213.36.107:8888/udp/239.93.0.52:5140
 #EXTINF:-1 group-title="四川台",峨嵋电影频道
-http://110.191.203.223:8888/udp/239.93.1.54:5140
+http://171.213.36.107:8888/udp/239.93.1.54:5140
 #EXTINF:-1 group-title="四川台",康巴卫视
-http://110.191.203.223:8888/udp/239.93.0.41:5140
+http://171.213.36.107:8888/udp/239.93.0.41:5140
 
-#EXTINF:-1 group-title="贵州台",贵州卫视
-http://222.71.11.180:4022/udp/239.45.1.80:5140
 #EXTINF:-1 group-title="贵州台",公共频道
 #EXTINF:-1 group-title="贵州台",影视文艺频道
 #EXTINF:-1 group-title="贵州台",大众生活频道
@@ -525,51 +572,61 @@ http://222.71.11.180:4022/udp/239.45.1.80:5140
 #EXTINF:-1 group-title="贵州台",科教健康频道
 #EXTINF:-1 group-title="贵州台",经济频道
 #EXTINF:-1 group-title="贵州台",天元围棋
-#EXTINF:-1 group-title="贵州台",天元围棋
 http://27.184.19.54:4022/rtp/239.254.201.156:6270
 
 #EXTINF:-1 group-title="云南台",都市频道
 #EXTINF:-1 group-title="云南台",娱乐频道
+http://106.57.0.226:55555/udp/239.200.200.13:8848
 #EXTINF:-1 group-title="云南台",影视频道
+http://106.57.0.226:55555/udp/239.200.200.15:8856
 #EXTINF:-1 group-title="云南台",康旅频道
+http://106.57.0.226:55555/udp/239.200.200.31:8860
 #EXTINF:-1 group-title="云南台",少儿频道
+http://106.57.0.226:55555/udp/239.200.200.32:8864
 
 #EXTINF:-1 group-title="西藏台",影视文化频道
 
 #EXTINF:-1 group-title="陕西台",新闻资讯频道
+http://1.82.144.16:4022/rtp/239.111.205.28:5140
 #EXTINF:-1 group-title="陕西台",都市青春频道
+http://1.82.144.16:4022/rtp/239.111.205.42:5140
 #EXTINF:-1 group-title="陕西台",生活频道
+http://1.82.144.16:4022/rtp/239.112.205.20:5140
 #EXTINF:-1 group-title="陕西台",影视频道
+http://1.82.144.16:4022/rtp/239.112.205.21:5140
 #EXTINF:-1 group-title="陕西台",公共频道
+http://1.82.144.16:4022/rtp/239.112.205.22:5140
 #EXTINF:-1 group-title="陕西台",体育休闲频道
+http://1.82.144.16:4022/rtp/239.111.205.36:5140
 #EXTINF:-1 group-title="陕西台",西部电影频道
+http://1.82.144.16:4022/rtp/239.111.205.41:5140
 #EXTINF:-1 group-title="陕西台",农林科技频道
 
 #EXTINF:-1 group-title="甘肃台",经济频道
+http://118.183.212.18:6868/udp//239.255.30.253:8231
 #EXTINF:-1 group-title="甘肃台",公共应急频道
+http://118.183.212.18:6868/udp//239.255.30.251:8231
 #EXTINF:-1 group-title="甘肃台",都市频道
+http://118.183.212.18:6868/udp//239.255.30.252:8231
 #EXTINF:-1 group-title="甘肃台",文化影视频道
+http://118.183.212.18:6868/udp//239.255.30.250:8231
 #EXTINF:-1 group-title="甘肃台",少儿频道
+http://118.183.212.18:6868/udp//239.255.30.254:8231
 
 #EXTINF:-1 group-title="青海台",经济生活频道
 #EXTINF:-1 group-title="青海台",安多藏语综合频道
 #EXTINF:-1 group-title="青海台",都市频道
 
 #EXTINF:-1 group-title="宁夏台",经济频道
+http://14.135.72.206:8888/rtp/239.121.4.91:8520
 #EXTINF:-1 group-title="宁夏台",文旅频道
+http://14.135.72.206:8888/rtp/239.121.4.93:8532
 #EXTINF:-1 group-title="宁夏台",公共频道
+http://14.135.72.206:8888/rtp/239.121.4.97:8556
 #EXTINF:-1 group-title="宁夏台",少儿频道
+http://14.135.72.206:8888/rtp/239.121.4.63:8352
 
 #EXTINF:-1 group-title="新疆台",都市频道
-#EXTINF:-1 group-title="新疆台",都市频道
-#EXTINF:-1 group-title="新疆台",都市频道
-#EXTINF:-1 group-title="新疆台",都市频道
-#EXTINF:-1 group-title="新疆台",都市频道
-#EXTINF:-1 group-title="新疆台",都市频道
-#EXTINF:-1 group-title="新疆台",都市频道
-#EXTINF:-1 group-title="新疆台",都市频道
-#EXTINF:-1 group-title="新疆台",都市频道
-
 
 #EXTINF:-1 group-title="iHOT",爱怀旧
 http://182.149.107.192:8888/udp/239.93.42.21:5140
