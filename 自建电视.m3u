@@ -76,11 +76,11 @@ http://106.113.144.209:2222/rtp/239.254.201.209:4220
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CGTN阿语.png" group-title="CCTV",CGTN阿语
 http://106.113.144.209:2222/rtp/239.254.201.211:4220
 
-#EXTINF:-1 group-title="CCTV",CETV-1
+#EXTINF:-1 group-title="CCTV",CETV1
 http://106.113.144.209:2222/rtp/239.254.200.225:6259
-#EXTINF:-1 group-title="CCTV",CETV-2
+#EXTINF:-1 group-title="CCTV",CETV2
 http://106.113.144.209:2222/rtp/239.254.200.226:6260
-#EXTINF:-1 group-title="CCTV",CETV-4
+#EXTINF:-1 group-title="CCTV",CETV4
 http://106.113.144.209:2222/rtp/239.254.200.227:6261
 
 #EXTINF:-1 group-title="CCTV",CHC动作电影
